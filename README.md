@@ -22,15 +22,9 @@ GOOGLE_API_KEY=Mi-llave-super-secreta-para-gemini
 - De la charla de febrero de GdG Barranquilla
   - https://ai.google.dev/
   - https://ai.google.dev/gemini-api/docs?hl=es-419
-  - https://ai.google.dev/gemini-api/docs/get-started/python
-
-#### Gemma
-  - https://ai.google.dev/gemma?hl=es-419
+      - Guía para Python: https://ai.google.dev/gemini-api/docs/get-started/python
   - https://github.com/google-gemini/cookbook
-  - Precios
-    - https://ai.google.dev/pricing?hl=es-419
 
-#### Glosario
-  - https://developers.google.com/machine-learning/glossary?hl=es-419#embedding-vector
-  - Guía de Embeddings: https://ai.google.dev/gemini-api/docs/embeddings
+#### Modelo de código abierto, Gemma
+  - https://ai.google.dev/gemma?hl=es-419
 
