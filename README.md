@@ -1,4 +1,4 @@
-# Guía descafeinada de la guía de inicio rápido de Gemini 
+# Resumen descafeinado de la guía de inicio rápido de Gemini
 
 En este repositorio hago un breve resumen del tutorial para iniciar con la API  de Gemini que ofrece Google.
 
