@@ -2,6 +2,10 @@
 
 En este repositorio hago un breve resumen del tutorial para iniciar con la API  de Gemini que ofrece Google.
 
+## Material adicional
+- [Diapositivas de la charla](https://docs.google.com/presentation/d/16hAiguZxSsllFlU2eq7mbtb1whBbvnUI/edit?usp=sharing&ouid=102956723374392876682&rtpof=true&sd=true)
+- Video: https://www.youtube.com/live/DS3XOs2gXJs?si=0U9GPMDFKGcN61Yz&t=3357
+
 ## ¿Cómo correrlo localmente?
 
 1. Comprobar que tienes Python instalado. Abre una terminal y escribe `python --version` o `python3 --version`. Para este proyecto necesitas tener python 3.
